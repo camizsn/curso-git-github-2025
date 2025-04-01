@@ -1,4 +1,3 @@
-clear -> limpa o terminal
 ls -> lista arquivos no diretório
 cd -> muda de diretório
 pwd -> mostra o caminho completo do diretório atual
