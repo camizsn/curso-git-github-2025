@@ -1,6 +1,10 @@
+clear -> limpa o terminal
 ls -> lista arquivos no diretório
 cd -> muda de diretório
 pwd -> mostra o caminho completo do diretório atual
 ./ -> pasta mãe do diretório
 ../ -> uma pasta acima do diretório atual
 mkdir -> cria uma nova pasta e você coloca o nome
+rm -rf .git/ -> apaga a pasta principal do arquivo.git
+rm -> remove arquivo ou diretório (PERIGOSO USAR SOZINHO, USA SÓ A OPÇÃO ANTERIOR)
+cat -> exibe conteúdo do arquivo atual

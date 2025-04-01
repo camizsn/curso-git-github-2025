@@ -1,0 +1,4 @@
+git init. -> cria um repositório git na pasta atual
+git status -> mostra o status do trabalho de cada arquivo
+git add nome_arquivo -> adiciona um arquivo para ser commitado
+git commit -m -> faz commit do que está para ser commitado
