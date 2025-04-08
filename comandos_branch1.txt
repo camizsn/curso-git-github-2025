@@ -1,3 +1,5 @@
 comandos da branch 1
 to ficando louca com esse curso
-MEU DEUUUUUS
+<<<<<<< HEAD
+MEU DEUUUUUS tá ficando muito complicado
+
